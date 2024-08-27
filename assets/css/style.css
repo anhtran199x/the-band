@@ -180,7 +180,7 @@ html {
     /* Thuộc tính margin-top cho slider nhằm đẩy slider xuống 1 khoảng bằng với header để header không bám dính đè lên phần nội dung của slider */
     padding-top: 50%;
     /* Thuộc tính padding-top khi đặt giá trị là a% thì nó là kích thước theo tỉ lệ a% chiều ngang của chính nó */
-    background: url('/assets/img/slider/slider1.jpg') top center / cover no-repeat;
+    background: url('../img/slider/slider1.jpg') top center / cover no-repeat;
 }
 
 #slider .text-content {
